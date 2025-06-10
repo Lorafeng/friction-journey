@@ -1,1 +1,1 @@
-# friction-journey
+# frictional-journey
